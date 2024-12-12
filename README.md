@@ -11,7 +11,7 @@
 <ul>
   <li> 💻 Desenvolvedora desde de 2021;
   <li> 🎓 Formada em Análise e Desenvolvimento de Sistemas; </li> 
-  <li> ✂️ Desenvolvo em Java e em Cobol Mianframe. </li> 
+  <li> ✂️ Desenvolvo em Java e em Cobol Mainframe. </li> 
 </ul>
 
 ##
