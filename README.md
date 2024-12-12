@@ -17,5 +17,5 @@
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaveiga&layout=compact&hide_border=true&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaveiga&layout=compact&hide_border=true&langs_count=8&theme=radical&text_color=ffffff&bg_color=0d1117"/>
 </div>
